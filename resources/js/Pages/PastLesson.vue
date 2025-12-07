@@ -15,6 +15,9 @@
         <Nav />
         <div class="container mt-4">
                 <div>
+                        <a href="/past-lessons">Past Lessons</a>
+                </div>
+                <div>
                         <h3>{{ parsedReply.prompt }}</h3>
                         <ol class="list-group list-group-numbered">
                                 <h4>Vocabulary</h4>
